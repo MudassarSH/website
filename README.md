@@ -1,1 +1,1 @@
-[delba.dev](https://delba.dev)
+Forked Repository of delba.dev
